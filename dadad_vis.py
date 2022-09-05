@@ -14,3 +14,5 @@ plt.plot([1,2,3],[2,4,6],marker= '.' , markersize=10)
 
 plt.savefig("mygraph.png",dpi=500)
 plt.show()
+
+#
